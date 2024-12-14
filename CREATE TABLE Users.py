@@ -33,3 +33,4 @@ model.fit(X_train, y_train, epochs=50, batch_size=5, verbose=1)
 # Evalúa el modelo en el conjunto de prueba
 loss, accuracy = model.evaluate(X_test, y_test)
 print(f"Precisión en el conjunto de prueba: {accuracy * 100:.2f}%")
+print("prueba")
