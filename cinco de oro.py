@@ -7,4 +7,3 @@ while len(set) < 6:
 set.remove(0)
 print(set)
 print("Vamos tu puedes")
-print("Una vez mas")
